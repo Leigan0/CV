@@ -2,7 +2,7 @@
 
 I studied Biological Sciences at university and after several years working in roles that didn't engage me I decided to change my path to a career that suited my interests. I am motivated, adaptable, hardworking and creative with a range of technical and workplace experience. I come from a corporate background and I have the ability to work well under pressure, whilst maintaining a high level of accuracy working within result and quality controlled environments. I believe I thrive in fast-paced and dynamic environments and enjoy changes in approach and technology.
 
-After a few months of self-teaching to code, I have been recently been selected for the highly competitive Makers Fellowship role. After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
+After a few months of teaching myself to code, I have been recently been selected for the highly competitive Makers Fellowship role. After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
 
 ## Skills
 

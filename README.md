@@ -57,5 +57,9 @@ Certificate in Discretionary Investment Management (CertPFS (DM))
 Certificate in Mortgage Advice (Cert CII (MP))
 TEFL
 
+**Interests** 
+I enjoy travelling and I have spent quite a bit of time in south east Asia, and I have spent a little time in India. 
+
+I like to cook try different cuisines from around the world. 
 
 

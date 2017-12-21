@@ -9,14 +9,11 @@ After a few months of self teaching to code I have been recently been selected f
 #### Proactive in my own and others development
 Whilst working full time within a completely unrelated field I decided to teach myself how to code. I researched the field and decided Ruby was a good starting point. I went from being unable to name any programming language to being able to create a automated card game, developed in a test driven enviroment. Prior to starting Makers Academy I built this program https://github.com/Leigan0/beat-the-dealer-21
  
- Whilst working in a previous role, I gave a lot of support and assisstance to new starters. This was recongised by my senior manager and I was quickly promoted to a quality assurance role. As part of this role I implemented training packages, hosted complex Q&A sessions and completed case checks to provide regular feedback to staff. As part of the role I also identified common knowledge gaps, and hosted refresher training for all employees to maintain high quality. 
+ Whilst working in a previous role, I gave a lot of support and assisstance to new starters. This was recognised by my senior manager and I was quickly promoted to a quality assurance role. As part of this role I implemented training packages, hosted complex Q&A sessions and completed case checks to provide regular feedback to staff. As part of the role I also identified common knowledge gaps, and hosted refresher training for all employees to maintain high quality. 
 
 #### Exceptional reasoning and problem solving skills
 Within my recent role as an Adjudicator at the Financial Ombudsman Service I was required to resolve disputes between large financial organisations and consumers.  Any resolution must be agreed upon by both the business and the consumer, and must be resolved in an impartial manner following a process to reach a reasonable and logical solution. I would collate and analyse all available evidence, probing both the consumer and businesses for further evidence where discrepancies were identified
 All conclusions had to be unbiased and fair to each party, whilst working at the service 95% of my caseload was resolved without the need for escalation. 
-
-#### Excellent written and verbal communication skills
-
 
 ## Education
 

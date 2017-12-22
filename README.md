@@ -58,8 +58,8 @@ Certificate in Mortgage Advice (Cert CII (MP))
 TEFL
 
 **Interests** 
-I enjoy travelling and I have spent quite a bit of time in south east Asia, and I have spent a little time in India. 
+I like to travel and I have spent quite a bit of time in south east Asia and more recently I have been to India and I am eager to plan my next trip. 
 
-I like to cook try different cuisines from around the world. 
+I enjoy to cooking (although not always successfully) and trying different cuisines from around the world.
 
 

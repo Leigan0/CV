@@ -1,13 +1,13 @@
 ## Leigh-Ann Gant
 
-I studied Biological Sciences at university and after several years working in roles that didn't engage me I decided to change my path to a career that suited my interests. I am motivated, adaptable, hardworking and creative with a range of technical and workplace experience. I come from a corporate background and I have the ability to work well under pressure, whilst maintaining a high level of accuracy working within result and quality controlled environments. I believe I thrive in fast-paced and dynamic environments and enjoy changes in approach and technology.
+I studied Biological Sciences at university and after several years working in roles that didn't engage me I decided to change my path to a career that suited my interests. I am motivated, adaptable, hardworking and creative with a range of technical and workplace experience. I come from a corporate background and I have the ability to work well under pressure, whilst maintaining a high level of accuracy working within result and quality controlled environments. I believe I thrive in fast-paced, dynamic environments and enjoy changes in approach and technology.
 
 After a few months of teaching myself to code, I have been recently been selected for the highly competitive Makers Fellowship role. After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
 
 ## Skills
 
 #### Proactive in my own and others development
-Whilst working full time within a completely unrelated field I decided to teach myself how to code. I researched the field and decided Ruby was a good starting point. I went from being unable to name any programming language to being able to create a automated card game, developed in a test driven enviroment. Prior to starting Makers Academy I built this program https://github.com/Leigan0/beat-the-dealer-21
+Whilst working full time within a completely unrelated field I decided to teach myself how to code. I researched the field and decided Ruby was a good starting point. I went from being unable to name any programming language to being able to create a automated card game, developed in a test driven manner. Prior to starting Makers Academy I built this program https://github.com/Leigan0/beat-the-dealer-21
 
 Whilst working in a previous role, I gave a lot of support and assisstance to new starters. This was recognised by my senior manager and I was quickly promoted to a quality assurance role. As part of this role I implemented training packages, hosted complex Q&A sessions and completed case checks to provide regular feedback to staff. As part of the role I also identified common knowledge gaps, and hosted refresher training for all employees to maintain high quality.
 

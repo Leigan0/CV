@@ -1,28 +1,44 @@
 ## Leigh-Ann Gant
 
-I studied Biological Sciences at university and after several years working in roles that didn't engage me I decided to change my path to a career that suited my interests. I am motivated, adaptable, hardworking and creative with a range of technical and workplace experience. I come from a corporate background and I have the ability to work well under pressure, whilst maintaining a high level of accuracy working within result and quality controlled environments. I believe I thrive in fast-paced, dynamic environments and enjoy changes in approach and technology.
+[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f) [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
 
-After a few months of teaching myself to code, I have been recently been selected for the highly competitive Makers Fellowship role. After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
+I would describe myself as motivated, adaptable and hardworking. After several years of trying to work in roles and industries that did not engage me I made the bold move of changing careers. I enjoy solving problems and creating things, but I lack artistic flare... so once I tried coding I haven't looked back!
+
+I spent a few months teaching myself to code, and was then selected for the highly competitive [Makers Fellowship role](http://www.makersacademy.com/). After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
 
 ## Skills
 
-#### Proactive in my own and others development
-Whilst working full time within a completely unrelated field I decided to teach myself how to code. I researched the field and decided Ruby was a good starting point. I went from being unable to name any programming language to being able to create a automated card game, developed in a test driven manner. Prior to starting Makers Academy I built this program https://github.com/Leigan0/beat-the-dealer-21
+#### Fast independent Learner
+Whilst working full time within a completely unrelated field I decided to teach myself how to code. I researched the field and decided Ruby was a good starting point. I went from being unable to name any programming language to being able to create a automated card game, developed in a test driven manner. Prior to starting Makers Academy I built this [program](https://github.com/Leigan0/beat-the-dealer-21).
 
-Whilst working in a previous role, I gave a lot of support and assisstance to new starters. This was recognised by my senior manager and I was quickly promoted to a quality assurance role. As part of this role I implemented training packages, hosted complex Q&A sessions and completed case checks to provide regular feedback to staff. As part of the role I also identified common knowledge gaps, and hosted refresher training for all employees to maintain high quality.
+I come from a corporate background and I have the ability to work well under pressure, whilst maintaining a high level of accuracy working within result and quality controlled environments. I believe I thrive in fast-paced, dynamic environments and enjoy changes in approach and technology.
 
-#### Exceptional reasoning and problem solving skills
-Within my recent role as an Adjudicator at the Financial Ombudsman Service, I was required to resolve disputes between large financial organisations and consumers. Any resolution must be agreed upon by both the business and the consumer and must be resolved in an impartial manner following a process to reach a reasonable and logical solution. I would collate and analyse all available evidence, probing both the consumer and businesses for further evidence where discrepancies were identified All conclusions had to be unbiased and fair to each party, whilst working at the service 95% of my caseload was resolved without the need for escalation.
+#### Great communicator
+Within my recent role as an Adjudicator at the Financial Ombudsman Service, I was required to resolve disputes between large financial organisations and consumers. Resolutions often required difficult conversations with stakeholders. The role greatly improved my communication skills and gave me invaluable experience in open and constructive communication.
+
+Within previous roles I have also provided training in theory and practice through a variety of mediums, including demonstrations, workshops and one to one coaching sessions.
+
+
+#### Great collaborator
+During my Makers experience I have had the opportunity to work as a team on technical projects. The project weeks have been the most rewarding and enjoyable weeks on the course.
+
+add teamwork examples
 
 ## Education
 
 #### Makers Academy (November 2017 - March 2018)
 
-Curious and passionate about code. I spent several months teaching myself to code, whilst working full time. I attended several meet-ups which introduced me to agile environments, best practices, and key learning objectives.
+Makers has provided me with a great understanding of coding fundamentals and best practices and we've only just scraped the surface. Over the 12 weeks I have built many projects all in a TDD manner using agile methodologies.
 
-Fast, independent learner, I created a blackjack program prior to applying for the course, https://github.com/Leigan0/beat-the-dealer-21
+Here are some of the projects I completed on the course, compared to my pre course attempt you can see how far I have come:
 
-Great collaborator, during my pre-course I have met up with several peers and we have paired together to complete code war katas.
+| Project name                                                            | Technologies used           | Timeframe  |
+| -------------                                                           |:-------------:              | -----:|
+| [Instagram Challenge](https://github.com/Leigan0/instagram-challenge)   | Rails, Ruby, HTML,CSS,Devise, Paperclip Rspec, Capybara                           |                            Two days|
+| [News Summary Challenge](https://github.com/Leigan0/news-summary-challenge)               | Javascript, HTML, CSS                    | Two days |
+| [Bowling Challenge](https://github.com/Leigan0/bowling-challenge)           | Javascript, Jasmine, HTML, CSS. JQuery                 |  Two days |
+| [Chitter Challenge](https://github.com/Leigan0/chitter-challenge) | Ruby, Sinatra, DataMapper, PostgreSQL, Capybara, Rspec, Mailgun      | Two days |
+| [Rock-Paper-Scissors](https://github.com/Leigan0/rps-challenge) | RSpec, Capybara , Ruby, HTML, CSS, Sinatra      |   Two days|
 
 #### Manchester Metropolitan University (September 2006 - July 2009)
 
@@ -35,11 +51,10 @@ Great collaborator, during my pre-course I have met up with several peers and we
 
 **Financial Ombudsman Service** (November 2016 - December 2017)    
 *Adjudicator*  
-I resolved disputes between financial businesses and their customers. I investigated each complaint and suggested a reasonable resolution. I would also communicate to both internal and external stakeholders in an appropriate format and keep all parties updated. Within the role, I had the opportunity to build trust and confidence with both business and consumer - by communicating all possible information and treating each individual with respect and empathy.
+I resolved disputes between financial businesses and their customers. I investigated each complaint and suggested a reasonable resolution.
 
 **Momenta Operations** (March 2013 - September 2016)   
 *High Risk Case Officer, Subject Matter Expert & Quality Assurance Team Member*  
-Working on a large redress and remediation project initially as a Case officer I was promoted to the Quality Assurance role and required to deputise for managers. I had the opportunity to create and implement training packages, involving developing technical knowledge surrounding redress systems, process maps and flows and the end to end delivery of a case. I provided training in theory and practice through a variety of mediums, including demonstrations, and managed accreditation of new starters. I provided statistics for senior management, collating figures in order to audit current quality of work. I also completed root cause analysis for common errors identified and hosted complex case clinics.
 
 **Equiniti Hazell Carr** (March 2012 - March 2013)
 *High Risk Case Officer*
@@ -47,19 +62,17 @@ Working as a Case Officer overseeing financial complaints. within a large remedi
 
 **MediaKids** (October 2010 – March 2011)
 *ESL Teacher*
-I worked in a rural Thailand Village as a English Teacher. I planned a term of English Classes using the national curriculum for students aged 11-18. I taught classes of 50 students, and help develop personal performance. And I also planned and participated in several English shows and English camps designed to motivate children to learn English.
+I worked in a rural Thailand Village as a English Teacher. I planned a term of English Classes using the national curriculum for students aged 11-18.
 
 **Customer Contact Centre Work**(March 2006- October 2010)
 I have worked in various customer care related centres in both the insurance and financial
 
-**Other awards** 
+**Other awards**
 Certificate in Discretionary Investment Management (CertPFS (DM))
 Certificate in Mortgage Advice (Cert CII (MP))
 TEFL
 
-**Interests** 
-I like to travel and I have spent quite a bit of time in south east Asia and more recently I have been to India and I am eager to plan my next trip. 
+**Interests**
+I like to travel and I have spent quite a bit of time in south east Asia and more recently I have been to India and I am eager to plan my next trip.
 
 I enjoy to cooking (although not always successfully) and trying different cuisines from around the world.
-
-

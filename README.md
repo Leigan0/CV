@@ -52,29 +52,36 @@ Here are some of the projects I completed on the course, compared to my pre cour
 
 **Financial Ombudsman Service** (November 2016 - December 2017)    
 *Adjudicator*  
+
 I resolved disputes between financial businesses and their customers. I investigated each complaint and suggested a reasonable resolution.
 
 **Momenta Operations** (March 2013 - September 2016)   
-*High Risk Case Officer, Subject Matter Expert & Quality Assurance Team Member*  
-Working on a large redress and remediation project initially as a Case officer I was promoted to the Quality Assurance role and required to deputise for managers. 
+*High Risk Case Officer, Subject Matter Expert & Quality Assurance Team Member*
+
+Working on a large redress and remediation project initially as a Case officer I was promoted to the Quality Assurance role and required to deputise for managers.
 
 **Equiniti Hazell Carr** (March 2012 - March 2013)
 *High Risk Case Officer*
+
 Working as a Case Officer overseeing financial complaints. within a large remediation project.
 
 **MediaKids** (October 2010 – March 2011)
 *ESL Teacher*
+
 I worked in a rural Thailand Village as a English Teacher. I planned a term of English Classes using the national curriculum for students aged 11-18.
 
 **Customer Contact Centre Work**(March 2006- October 2010)
+
 I have worked in various customer care related centres in both the insurance and financial
 
 **Other awards**
+
 Certificate in Discretionary Investment Management (CertPFS (DM))
 Certificate in Mortgage Advice (Cert CII (MP))
 TEFL
 
 **Interests**
+
 I like to travel and I have spent quite a bit of time in south east Asia and more recently I have been to India and I am eager to plan my next trip.
 
 I enjoy to cooking (although not always successfully) and trying different cuisines from around the world.

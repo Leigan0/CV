@@ -56,6 +56,7 @@ I resolved disputes between financial businesses and their customers. I investig
 
 **Momenta Operations** (March 2013 - September 2016)   
 *High Risk Case Officer, Subject Matter Expert & Quality Assurance Team Member*  
+Working on a large redress and remediation project initially as a Case officer I was promoted to the Quality Assurance role and required to deputise for managers. 
 
 **Equiniti Hazell Carr** (March 2012 - March 2013)
 *High Risk Case Officer*

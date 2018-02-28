@@ -1,6 +1,6 @@
 ## Leigh-Ann Gant
 
-[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f) [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
+[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [My Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
 
 I would describe myself as motivated, adaptable and hardworking. After several years of trying to work in roles and industries that did not engage me I made the bold move of changing careers. I enjoy solving problems and creating things, but I lack artistic flare... so once I tried coding I haven't looked back!
 
@@ -33,12 +33,12 @@ Makers has provided me with a great understanding of coding fundamentals and bes
 Here are some of the projects I completed on the course, compared to my pre course attempt you can see how far I have come:
 
 | Project name                                                            | Technologies used           | Timeframe  |
-| -------------                                                           |:-------------:              | -----:|
+|:-------------                                                           :|:-------------:              | :-----:|
 | [Instagram Challenge](https://github.com/Leigan0/instagram-challenge)   | Rails, Ruby, HTML,CSS,Devise, Paperclip Rspec, Capybara                           |                            Two days|
 | [News Summary Challenge](https://github.com/Leigan0/news-summary-challenge)               | Javascript, HTML, CSS                    | Two days |
 | [Bowling Challenge](https://github.com/Leigan0/bowling-challenge)           | Javascript, Jasmine, HTML, CSS. JQuery                 |  Two days |
 | [Chitter Challenge](https://github.com/Leigan0/chitter-challenge) | Ruby, Sinatra, DataMapper, PostgreSQL, Capybara, Rspec, Mailgun      | Two days |
-| [Rock-Paper-Scissors](https://github.com/Leigan0/rps-challenge) | RSpec, Capybara , Ruby, HTML, CSS, Sinatra      |   Two days|
+| [Rock Paper Scissors](https://github.com/Leigan0/rps-challenge) | RSpec, Capybara , Ruby, HTML, CSS, Sinatra      |   Two days|
 
 #### Manchester Metropolitan University (September 2006 - July 2009)
 

@@ -1,6 +1,6 @@
 ## Leigh-Ann Gant
 
-[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [My Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
+[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
 
 I would describe myself as motivated, adaptable and hardworking. After several years of trying to work in roles and industries that did not engage me I made the bold move of changing careers. I enjoy solving problems and creating things, but I lack artistic flare... so once I tried coding I haven't looked back!
 

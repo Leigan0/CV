@@ -2,9 +2,15 @@
 
 [My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
 
-I would describe myself as motivated, adaptable and hardworking. After several years of trying to work in roles and industries that did not engage me I made the bold move of changing careers. I enjoy solving problems and creating things, but I lack artistic flare... so once I tried coding I haven't looked back! I find the fact that I will never know everything exciting and I'm inspired to continue on this path by softwares unlimited potential to expand. 
+I was going to describe myself for my CV, but I asked my peers instead, I got the following description which im inclined to agree with.
 
-I spent a few months teaching myself to code, and was then selected for the highly competitive [Makers Fellowship role](http://www.makersacademy.com/). After completing the course and learning the best coding practice, I want to use these newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
+'I would say you are unafraid to tackle any task and you see things through to completion. You value connections with people but don't force them and you constantly seek to improve your ways of working and your code.'
+
+I recently made the bold move of changing careers, after spending several long years of trying to work in roles that didn't challenge me, or particulary interest me. I knew I enjoyed solving problems and creating things, but I was also well aware that I lacked artistic flare... so I tried coding. Once I started, I haven't looked back.
+
+I spent a few months teaching myself to code, and was then selected for the highly competitive [Makers Fellowship role](http://www.makersacademy.com/). 
+
+Since attending Makers and embarking on this path my whole attitude to work, and my future career has changed. Before I worked soley to live. Now I'm motivated by the fact I will never know everything and I'm inspired to continue on this path by softwares unlimited potential to expand. I want to use my newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
 
 ## Skills
 
@@ -22,7 +28,7 @@ Within previous roles I have also provided training in theory and practice throu
 #### Great collaborator
 During my Makers experience I have had the opportunity to work as a team on technical projects. The project weeks have been the most rewarding and enjoyable weeks on the course.
 
-add teamwork examples
+Within my final project our focus was 'to learn a new thing'. I contributed several tutorials to our group book to share group learning, and to pass on to others, and received postive feedback from all team members during the project. 
 
 ## Education
 

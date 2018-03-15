@@ -1,16 +1,17 @@
 ## Leigh-Ann Gant
 
-[My blog](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
+[Find out more about my story here](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
 
-I was going to describe myself for my CV, but I asked my peers instead, I got the following description which im inclined to agree with.
 
-'I would say you are unafraid to tackle any task and you see things through to completion. You value connections with people but don't force them and you constantly seek to improve your ways of working and your code.'
+***'I would say you are unafraid to tackle any task and you see things through to completion. 
+You value connections with people but don't force them and you constantly seek to improve your 
+ways of working and your code.'***
 
-I recently made the bold move of changing careers, after spending several long years of trying to work in roles that didn't challenge me, or particulary interest me. I knew I enjoyed solving problems and creating things, but I was also well aware that I lacked artistic flare... so I tried coding. Once I started, I haven't looked back.
+I recently made the bold move of changing careers, after spending several long years of trying to work in roles that didn't challenge me, or particulary interest me. I knew I enjoyed solving problems and creating things, but I was also well aware that I lacked artistic flair... so I tried coding. Once I started, I haven't looked back.
 
 I spent a few months teaching myself to code, and was then selected for the highly competitive [Makers Fellowship role](http://www.makersacademy.com/). 
 
-Since attending Makers and embarking on this path my whole attitude to work, and my future career has changed. Before I worked soley to live. Now I'm motivated by the fact I will never know everything and I'm inspired to continue on this path by softwares unlimited potential to expand. I want to use my newly developed skills and my previous experience to move into a Junior Developer role to bring projects and ideas to life.
+Since attending Makers and embarking on this path my whole attitude to work, and my future career has changed. Before I worked soley to live. Now I'm motivated by the fact I will never know everything and I'm inspired to continue on this path by softwares unlimited potential to expand. I want to use my newly developed skills and my previous experience to move into a Developer role to bring projects and ideas to life.
 
 ## Skills
 
@@ -26,9 +27,9 @@ Within previous roles I have also provided training in theory and practice throu
 
 
 #### Great collaborator
-During my Makers experience I have had the opportunity to work as a team on technical projects. The project weeks have been the most rewarding and enjoyable weeks on the course.
+During my Makers experience I have had the opportunity to work as a team on technical projects.  Within my final project our focus was to learn new things. I contributed several tutorials to our group book to share group learning, and to pass on to others, and received postive feedback from all team members during the project. 
 
-Within my final project our focus was 'to learn a new thing'. I contributed several tutorials to our group book to share group learning, and to pass on to others, and received postive feedback from all team members during the project. 
+As part of the project I volunteered to run several retro's for the group to reflect on the project so far, and make some actionable plans for the following day. This helped the group focus on delivering value. 
 
 ## Education
 

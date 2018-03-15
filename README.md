@@ -1,6 +1,6 @@
 ## Leigh-Ann Gant
 
-[Find out more about my story here](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/)
+[Find out more about my story here](https://blog.makersacademy.com/meet-our-makers-fellows-leigh-ann-gant-25c71112121f)  |               [Linkedin](https://www.linkedin.com/in/leigh-ann-gant-cii-mp-cert-pfs-dm-a88756105/) | [Twitter](https://twitter.com/Leigan0)
 
 
 ***'I would say you are unafraid to tackle any task and you see things through to completion. 
@@ -42,9 +42,10 @@ Here are some of the projects I completed on the course, compared to my pre cour
 
 | Project name                                                            | Technologies used           | Timeframe  |
 | :-------------:                                                           |:-------------:              | :-----:|
+| [Dinder](https://github.com/SimonBao/Dindr)   | JavaScript, Nodejs, Expressjs, React, MongoDb, Mongoose, Jest                          |                            Nine days|
 | [Instagram Challenge](https://github.com/Leigan0/instagram-challenge)   | Rails, Ruby, HTML,CSS,Devise, Paperclip Rspec, Capybara                           |                            Two days|
 | [News Summary Challenge](https://github.com/Leigan0/news-summary-challenge)               | Javascript, HTML, CSS                    | Two days |
-| [Bowling Challenge](https://github.com/Leigan0/bowling-challenge)           | Javascript, Jasmine, HTML, CSS. JQuery                 |  Two days |
+| [Bowling Challenge](https://github.com/Leigan0/bowling-challenge)           | Javascript, Jasmine, HTML, CSS, JQuery                 |  Two days |
 | [Chitter Challenge](https://github.com/Leigan0/chitter-challenge) | Ruby, Sinatra, DataMapper, PostgreSQL, Capybara, Rspec, Mailgun      | Two days |
 | [Rock Paper Scissors](https://github.com/Leigan0/rps-challenge) | RSpec, Capybara , Ruby, HTML, CSS, Sinatra      |   Two days|
 
